@@ -15,7 +15,7 @@
     left: 100px;
     right: 100px;
     bottom: 80px;
-    background-image: url('./images/bg4.jpg');
+    background-image: url('../images/bg4.jpg');
     background-repeat: no-repeat;
     border-radius: 5px;
     background-size: cover;
@@ -33,7 +33,7 @@
 
 
 body {
-    background-image: url(./images/bg4.jpg);
+    background-image: url(../images/bg4.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
